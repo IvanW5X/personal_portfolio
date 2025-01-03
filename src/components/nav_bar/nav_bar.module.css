@@ -49,6 +49,11 @@
 }
 
 
+.menu_button {
+    display: none;
+}
+
+
 @media screen and (max-width: 900px) {
     .nav_bar {
         flex-direction: column;
@@ -94,3 +99,5 @@
         z-index: 1;
     }
 }
+
+
