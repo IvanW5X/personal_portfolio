@@ -1,15 +1,12 @@
 /********************************************************
  * File Name: index.css
  * Date: 1/2/2025
- * Description: CSS file for main website display
- * Dependencies: 
+ * Description: Utility functions file
+ * Dependencies: NA
  * Author(s): Ivan Wong
  ********************************************************/
 
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
+export const get_image_url = (path) => {
+    return new URL(`/assets/${path}`, import.meta.url).href;
+};
