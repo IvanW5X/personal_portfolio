@@ -1,7 +1,7 @@
 /********************************************************
- * File Name: index.css
+ * File Name: utilities.js
  * Date: 1/2/2025
- * Description: Utility functions file
+ * Description: Utility functions JS file
  * Dependencies: NA
  * Author(s): Ivan Wong
  ********************************************************/

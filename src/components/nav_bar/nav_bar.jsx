@@ -7,17 +7,20 @@
  ********************************************************/
 
 
-import React, {useState} from "react";
-import styles from "./nav_bar.module.css"
-import {get_image_url} from "../../utilities.js"
+import React, { useState } from "react";
+import styles from "./nav_bar.module.css";
+import { get_image_url } from "../../utilities.js";
 
 
 export const NavBar = () => {
     const [menu_open, set_menu_open] = useState(false);
 
-    return <nav className={styles.nav_bar}>
+    return (
+    <nav className={styles.nav_bar}>
         <a className={styles.title} href="/">Portfolio</a>
         <div className={styles.menu}>
+
+            {/* Expand menu button images */}
             <img
                 className={styles.menu_button}
                 src={menu_open
@@ -49,4 +52,5 @@ export const NavBar = () => {
             </ul>
         </div>
     </nav>
+    );
 };

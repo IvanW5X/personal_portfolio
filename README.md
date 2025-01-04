@@ -7,6 +7,7 @@ showcasing my current progress in programming.
 
 ## Includes...
 Short description about who I am as a programmer and a person.
+Skills and experience.
 Social media accounts.
 Personal Programming Projects.
 General Information about me.
