@@ -11,6 +11,7 @@ import styles from "./App.module.css"
 import { NavBar } from "./components/nav_bar/nav_bar" 
 import { Profile } from "./components/profile/profile"
 import { About } from "./components/about/about";
+import { Experience } from "./components/experience/experience";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <NavBar />
       <Profile />
       <About />
+      <Experience />
     </div>
   );
 };
