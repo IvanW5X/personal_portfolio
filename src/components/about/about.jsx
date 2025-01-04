@@ -40,7 +40,7 @@ export const About = () => {
                     <img
                         className={styles.full_stack_image}
                         src={get_image_url("full_stack_logo.png")}
-                        alt="Oregon State University logo"
+                        alt="Full stack logo"
                     />
                     <div className={styles.about_item_text}>
                         <h3>Experience w/ Full Stack Development:</h3>
