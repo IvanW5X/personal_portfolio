@@ -51,13 +51,13 @@ export const About = () => {
                 <li className={styles.about_item}>
                     <img
                         className={styles.c_image}
-                        src={get_image_url("C.png")}
+                        src={get_image_url("c_logo.png")}
                         alt="C and C++ logo"
                     />
                     <div className={styles.about_item_text}>
                         <h3>Profficient in Low Level Programming:</h3>
-                        <p>Experience developing multi threaded and multi process programs, as wells as using sockets
-                           to run client/server programs using C.</p>
+                        <p>Developed multi threaded and multi process programs, as wells as using sockets
+                           to run client/server programs in C.</p>
                     </div>
                 </li>
             </ul>

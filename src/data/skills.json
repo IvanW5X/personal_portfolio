@@ -1,32 +1,42 @@
 [
     {
-        "title": "HTML"
+        "title": "HTML",
+        "image_src": "html_logo.png"
     },
     {
-        "title": "CSS"
+        "title": "CSS",
+        "image_src": "css_logo.png"
     },
     {
-        "title": "JavaScript"
+        "title": "JavaScript",
+        "image_src": "javascript_logo.png"
     },
     {
-        "title": "React"
+        "title": "React",
+        "image_src": "react_logo.png"
     },
     {
-        "title": "C/C++"
+        "title": "Qt/QML",
+        "image_src": "qt_logo.png"
     },
     {
-        "title": "Python"
+        "title": "C",
+        "image_src": "c_logo.png"
     },
     {
-        "title": "Git/GitHub"
+        "title": "C++",
+        "image_src": "c++_logo.png"
     },
     {
-        "title": "Qt/QML"
+        "title": "Python",
+        "image_src": "python_logo.png"
     },
     {
-        "title": "Linux"
+        "title": "Quartus",
+        "image_src": "quartus_prime_logo.png"
     },
     {
-        "title": "Math Skills"
+        "title": "ModelSim",
+        "image_src": "modelsim_logo.png"
     }
 ]

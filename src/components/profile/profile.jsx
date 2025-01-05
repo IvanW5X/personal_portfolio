@@ -17,9 +17,8 @@ export const Profile = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Ivan!</h1>
-            <p className={styles.description}>I'm a third year Computer Science Student at Oregon State 
-               University. Welcome to my portfolio! If you'd like more information, please reach out!
-            </p>
+            <p className={styles.description}>Welcome to my portfolio! I'm a third year Computer Science Student at Oregon State 
+               University. If you'd like more information, please reach out!</p>
             <a href="mailto:ivanwong169@gmail.com" className={styles.contact_button}>Contact Me!</a>
         </div>
         <img
