@@ -1,8 +1,13 @@
 /********************************************************
- * File Name: 
+ * File Name: experience.jsx
  * Date: 1/3/2025
- * Description: 
- * Dependencies: 
+ * Description: JSX file for experience section for
+ *              portfolio website
+ * Dependencies: React
+ *               skills.json
+ *               history.json
+ *               utilities.js
+ *               experience.module.css
  * Author(s): Ivan Wong
  ********************************************************/
 
@@ -10,7 +15,7 @@
 import React from "react";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
-import { get_image_url } from "../../utilities";
+import { get_image_url } from "../../utilities.js";
 import styles from "./experience.module.css";
 
 

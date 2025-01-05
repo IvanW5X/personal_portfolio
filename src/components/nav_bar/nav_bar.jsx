@@ -1,8 +1,11 @@
 /********************************************************
- * File Name: 
+ * File Name: nav_bar.jsx
  * Date: 1/2/2025
- * Description: 
- * Dependencies: 
+ * Description: JSX file for nav bar for portfolio
+ *              website
+ * Dependencies: React
+ *               nav_bar.module.css
+ *               utilitiles.js
  * Author(s): Ivan Wong
  ********************************************************/
 

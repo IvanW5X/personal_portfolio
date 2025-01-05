@@ -13,6 +13,7 @@ import { Profile } from "./components/profile/profile"
 import { About } from "./components/about/about";
 import { Experience } from "./components/experience/experience";
 import { Education } from "./components/education/education";
+import { Projects } from "./components/projects/projects";
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <About />
       <Experience />
       <Education />
+      <Projects />
     </div>
   );
 };

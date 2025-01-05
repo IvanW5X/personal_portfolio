@@ -1,8 +1,11 @@
 /********************************************************
- * File Name: 
+ * File Name: main.js
  * Date: 1/2/2025
- * Description: 
- * Dependencies: 
+ * Description: JSX file for main webpage for portfolio
+ *              website
+ * Dependencies: React
+ *               index.css
+ *               App.jsx
  * Author(s): Ivan Wong
  ********************************************************/
 

@@ -1,8 +1,12 @@
 /********************************************************
- * File Name: 
+ * File Name: education.jsx
  * Date: 1/4/2025
- * Description: 
- * Dependencies: 
+ * Description: JSX file for education section for
+ *              portfolio website
+ * Dependencies: React
+ *               experience.module.css
+ *               utilities.js
+ *               courses.json
  * Author(s): Ivan Wong
  ********************************************************/
 

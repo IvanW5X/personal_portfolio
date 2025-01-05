@@ -1,8 +1,11 @@
 /********************************************************
- * File Name: 
+ * File Name: about.jsx
  * Date: 1/3/2025
- * Description: 
- * Dependencies: 
+ * Description: JSX file for about section for portfolio
+ *              website
+ * Dependencies: React
+ *               about.module.css
+ *               utilitles.js
  * Author(s): Ivan Wong
  ********************************************************/
 

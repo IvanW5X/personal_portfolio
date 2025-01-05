@@ -1,8 +1,11 @@
 /********************************************************
- * File Name: 
+ * File Name: profile.jsx
  * Date: 1/3/2025
- * Description: 
- * Dependencies: 
+ * Description: JSX file for profile section of portfolio
+ *              website
+ * Dependencies: React
+ *               utilities.js
+ *               profile.module.css
  * Author(s): Ivan Wong
  ********************************************************/
 
