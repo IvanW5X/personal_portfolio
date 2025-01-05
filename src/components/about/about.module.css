@@ -19,6 +19,7 @@
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
+    box-shadow: 0 0 15px rgba(25, 55, 109, 0.6);
 }
 
 
@@ -59,14 +60,14 @@
     border-radius: 20px;
     padding: 25px;
     list-style: none;
-    background-image: linear-gradient(
+    background: linear-gradient(
         90deg,
         rgba(165, 215, 232, 0.42) 0%,
         rgba(255, 255, 255, 0) 100%
     );
     background-size: 0 100%;
     background-repeat: no-repeat;
-    transition: 0.5s ease;
+    transition: 0.44s ease;
 }
 
 
@@ -110,6 +111,7 @@
     .container {
         background-color: transparent;
         padding: 0;
+        box-shadow: none;
     }
 
 

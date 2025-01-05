@@ -12,6 +12,7 @@ import { NavBar } from "./components/nav_bar/nav_bar"
 import { Profile } from "./components/profile/profile"
 import { About } from "./components/about/about";
 import { Experience } from "./components/experience/experience";
+import { Education } from "./components/education/education";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Profile />
       <About />
       <Experience />
+      <Education />
     </div>
   );
 };

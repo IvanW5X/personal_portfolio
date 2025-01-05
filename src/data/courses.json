@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Data Stuctures & Algorithms",
+        "grade": "A"
+    },
+    {
+        "title": "Operating Systems",
+        "grade": "A"
+    },
+    {
+        "title": "Digital Logic Design",
+        "grade": "A"
+    },
+    {
+        "title": "Web Development",
+        "grade": "A"
+    },
+    {
+        "title": "Analysis of Algorithms",
+        "grade": "B+"
+    },
+    {
+        "title": "Programming Language Fundamentals",
+        "grade": "A-"
+    }
+]

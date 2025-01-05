@@ -1,0 +1,152 @@
+/********************************************************
+ * File Name: 
+ * Date: 1/4/2025
+ * Description: 
+ * Dependencies: 
+ * Author(s): Ivan Wong
+ ********************************************************/
+
+
+@import "../../variables.css";
+
+
+.container {
+    color: var(--text-color);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.title {
+    color: var(--text-color);
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
+
+.content {
+    margin-top: 10px;
+}
+
+
+.general_info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.school_image_container {
+    width: 40%;
+    border-radius: 25%;
+    background-color: var(--secondary-color);
+    box-shadow: 0 0 30px var(--secondary-color);
+}
+
+
+.osu_image {
+    width: 100%;
+}
+
+
+.school_info_text {
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+    background: #19376d;
+    background: linear-gradient(
+        90deg,
+        #19376d 0%,
+        rgba(25, 55, 109, 0) 100%
+    );
+    padding: 24px;
+    border-radius: 20px;
+}
+
+
+.school_info_text h3 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.school_info_text p {
+    font-size: 25px;
+}
+
+
+.courses_container {
+    margin: auto;
+    margin-top: 40px;
+    width: 75%;
+    background: #19376d;
+    background: linear-gradient(
+        90deg,
+        #19376d 0%,
+        rgba(25, 55, 109, 0) 100%
+    );
+    padding: 24px;
+    border-radius: 10px;
+}
+
+
+.courses_container h3 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.course_list {
+    font-size: 20px;
+    list-style-position: inside;
+    list-style: none;
+    padding-right: 20%;
+}
+
+
+.course_item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+}
+
+
+.course_name {
+    flex: 1;
+    text-align: left;
+}
+
+
+.course_grade {
+    width: 50px;
+    padding-left: 10px;
+}
+
+
+@media screen and (max-width: 900px) {
+    .general_info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .school_info_text {
+        margin-top: 20px;
+        width: 90%;
+    }
+
+
+    .school_image_container {
+        width: 75%;
+    }
+
+
+    .courses_container {
+        width: 90%;
+    }
+}

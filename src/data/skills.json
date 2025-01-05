@@ -32,6 +32,10 @@
         "image_src": "python_logo.png"
     },
     {
+        "title": "System Verilog",
+        "image_src": "system_verilog_logo.png"
+    },
+    {
         "title": "Quartus",
         "image_src": "quartus_prime_logo.png"
     },

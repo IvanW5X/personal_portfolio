@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Texas Hold 'Em Poker App",
+        "image_src": "",
+        "description": "Poker Simulation Application developed using Qt and C++. Includes features such as custom game settings, AI bot decisions, stats tracker, and more!",
+        "skills": ["C++", "Qt", "CMake", "Game Development"],
+        "demo": "",
+        "source": ""
+    },
+    {
+        "title": "Small Shell Program",
+        "image_src": "",
+        "description": "Custom shell linux program built to handle executing and error handling strings from command line, file redirection, custom signal handlers and more!",
+        "skills": ["C", "Process Managment", "Debugging", "File I/O"],
+        "demo": "",
+        "source": ""
+    },
+    {
+        "title": "VGA Driver",
+        "image_src": "",
+        "description": "Created a VGA driver from scratch on an Intel FPGA using Quartus Prime and ModelSim for debugging. Built main VGA driver component using custom modules, such as a ",
+        "skills": [],
+        "demo": "",
+        "source": ""
+    }
+]
