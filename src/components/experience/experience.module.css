@@ -53,8 +53,8 @@
 
 
 .skill_image_container {
-    width: 120px;
-    height: 120px;
+    width: 150px;
+    height: 150px;
     background-color: var(--secondary-color);
     border-radius: 100%;
     display: flex;
@@ -65,7 +65,7 @@
 
 
 .skill_image_container img {
-    width: 75px;
+    width: 100px;
 }
 
 

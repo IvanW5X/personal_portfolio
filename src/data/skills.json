@@ -50,5 +50,9 @@
     {
         "title": "GitHub",
         "image_src": "github_logo.png"
+    },
+    {
+        "title": "Customer Service",
+        "image_src": "customer_service_logo.png"
     }
 ]

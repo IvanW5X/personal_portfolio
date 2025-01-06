@@ -1,7 +1,7 @@
 /********************************************************
- * File Name: 
+ * File Name: contact.jsx
  * Date: 1/5/2025
- * Description: 
+ * Description: JSX file for contact
  * Dependencies: 
  * Author(s): Ivan Wong
  ********************************************************/
