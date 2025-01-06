@@ -1,8 +1,10 @@
 /********************************************************
- * File Name: 
+ * File Name: project_card.jsx
  * Date: 1/5/2025
- * Description: 
- * Dependencies: 
+ * Description: JSX file for project card component
+ * Dependencies: React
+ *               project_card.module.css
+ *               utilties.css
  * Author(s): Ivan Wong
  ********************************************************/
 

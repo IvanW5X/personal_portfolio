@@ -19,5 +19,26 @@
         "description": "Created a VGA driver from scratch on an Intel FPGA using Quartus Prime and ModelSim for debugging. Built main VGA driver component using custom modules, such as a clock div, counter, and more!",
         "skills": ["System Verilog", "Quartus", "ModelSim", "Integrated Circuit"],
         "source": "https://github.com/IvanW5X/vga-driver"
+    },
+    {
+        "title": "Tetris",
+        "image_src": "tetris_ex.png",
+        "description": "Created Tetris using the raylib library in C++ for a larger project consisting of a game launcher and custom games.",
+        "skills": ["C++", "CMake", "Game Development", "GitHub"],
+        "source": "https://github.com/raymondcen/unlimited-games-but-no-games"
+    },
+    {
+        "title": "Multi-Threaded Line Processor",
+        "image_src": "line_processor_ex.png",
+        "description": "Multi-threaded consumer-producer pipeline for a line processor program in C.",
+        "skills": ["C", "Threads", "File I/O", "Concurrency"],
+        "source": "https://github.com/IvanW5X/C-Projects"
+    },
+    {
+        "title": "One Time Pad",
+        "image_src": "one_time_pad_ex.png",
+        "description": "Server-Client program created to encrypt and decrypt text using a random key generator in C.",
+        "skills": ["C", "Socket Programming", "File I/O", "Process Managment"],
+        "source": "https://github.com/IvanW5X/C-Projects"
     }
 ]

@@ -1,8 +1,11 @@
 /********************************************************
- * File Name: 
+ * File Name: project.jsx
  * Date: 1/4/2025
- * Description: 
- * Dependencies: 
+ * Description: JSX file for project section
+ * Dependencies: React
+ *               projects.module.css
+ *               projects.json
+ *               project_card.jsx
  * Author(s): Ivan Wong
  ********************************************************/
 
@@ -10,8 +13,7 @@
 import React from "react";
 import styles from "./projects.module.css";
 import projects from "../../data/projects.json";
-import { get_image_url } from "../../utilities";
-import { ProjectCard } from "./project_card";
+import { ProjectCard } from "./project_card.jsx";
 
 
 export const Projects = () => {

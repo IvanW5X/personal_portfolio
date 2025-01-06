@@ -2,7 +2,9 @@
  * File Name: contact.jsx
  * Date: 1/5/2025
  * Description: JSX file for contact
- * Dependencies: 
+ * Dependencies: React
+ *               contact/module.css
+ *               utitlities.js
  * Author(s): Ivan Wong
  ********************************************************/
 
