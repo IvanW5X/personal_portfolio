@@ -36,11 +36,19 @@
         "image_src": "system_verilog_logo.png"
     },
     {
-        "title": "Quartus",
+        "title": "Quartus Prime",
         "image_src": "quartus_prime_logo.png"
     },
     {
         "title": "ModelSim",
         "image_src": "modelsim_logo.png"
+    },
+    {
+        "title": "CMake",
+        "image_src": "cmake_logo.png"
+    },
+    {
+        "title": "GitHub",
+        "image_src": "github_logo.png"
     }
 ]

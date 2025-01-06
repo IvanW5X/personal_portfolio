@@ -14,6 +14,7 @@ import { About } from "./components/about/about";
 import { Experience } from "./components/experience/experience";
 import { Education } from "./components/education/education";
 import { Projects } from "./components/projects/projects";
+import { Contact } from "./components/contact/contact";
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
       <Experience />
       <Education />
       <Projects />
+      <Contact />
     </div>
   );
 };

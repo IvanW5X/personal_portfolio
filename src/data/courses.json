@@ -16,11 +16,11 @@
         "grade": "A"
     },
     {
-        "title": "Analysis of Algorithms",
-        "grade": "B+"
-    },
-    {
         "title": "Programming Language Fundamentals",
         "grade": "A-"
+    },
+    {
+        "title": "Analysis of Algorithms",
+        "grade": "B+"
     }
 ]
