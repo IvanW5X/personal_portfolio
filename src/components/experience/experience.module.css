@@ -141,6 +141,22 @@
     }
 
 
+    .skill_image_container {
+        width: 100px;
+        height: 100px;
+    }
+
+
+    .skill_image_container img {
+        width: 65px;
+    }
+
+
+    .skill p {
+        font-size: 16px;
+    }
+
+
     .history {
         width: 100%;
         gap: 10px;
