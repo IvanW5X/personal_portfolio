@@ -22,5 +22,13 @@
     {
         "title": "Analysis of Algorithms",
         "grade": "B+"
+    },
+    {
+        "title": "Intro to Networking",
+        "grade": "TDB"
+    },
+    {
+        "title": "Computer Organization and Assembly",
+        "grade": "TBD"
     }
 ]
