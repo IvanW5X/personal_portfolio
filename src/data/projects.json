@@ -17,7 +17,7 @@
         "title": "VGA Driver",
         "image_src": "vga_ex.png",
         "description": "Created a VGA driver from scratch on an Intel FPGA using Quartus Prime and ModelSim for debugging. Built main VGA driver component using custom modules, such as a clock div, counter, and more!",
-        "skills": ["System Verilog", "Quartus", "ModelSim", "Integrated Circuit"],
+        "skills": ["SystemVerilog", "Quartus", "ModelSim", "Integrated Circuit"],
         "source": "https://github.com/IvanW5X/vga-driver"
     },
     {
@@ -40,5 +40,12 @@
         "description": "Server-Client program created to encrypt and decrypt text using a random key generator in C.",
         "skills": ["C", "Socket Programming", "File I/O", "Process Managment"],
         "source": "https://github.com/IvanW5X/C-Projects"
+    },
+    {
+        "title": "Alarm Clock",
+        "image_src": "alarm_clock_schematic.png",
+        "description": "Functional alarm clock created using Quartus Prime, SystemVerilog, and circuit schematics; tested via ModelSim.",
+        "skills": ["Quartus", "SystemVerilog", "ModelSim"],
+        "source": "https://github.com/IvanW5X/Alarm-Clock"
     }
 ]
