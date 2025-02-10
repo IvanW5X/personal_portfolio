@@ -48,10 +48,9 @@ export const About = () => {
             <div className={styles.about_item_text}>
               <h3>Experience w/ Full Stack Development:</h3>
               <p>
-                Developed GUI applications, primarily focusing on UI
+                Developed GUI and web applications, primarily focusing on UI
                 design/functionality, configuring build environments, and
-                integration with business logic. Currently focusing on full
-                stack development with web applications.
+                integration with business logic.
               </p>
             </div>
           </li>

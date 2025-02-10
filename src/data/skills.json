@@ -20,6 +20,10 @@
         "image_src": "qt_logo.png"
     },
     {
+        "title": "Node.js",
+        "image_src": "node_icon.png"
+    },
+    {
         "title": "C",
         "image_src": "c_logo.png"
     },

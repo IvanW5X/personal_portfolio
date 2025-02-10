@@ -47,5 +47,12 @@
         "description": "Functional alarm clock created using Quartus Prime, SystemVerilog, and circuit schematics; tested via ModelSim.",
         "skills": ["Quartus", "SystemVerilog", "ModelSim"],
         "source": "https://github.com/IvanW5X/Alarm-Clock"
+    },
+    {
+        "title": "TalkTask",
+        "image_src": "talktask.png",
+        "description": "To-do list web application that utilizes speech recognition for task management and an AI model to provide suggested tasks based on user history.",
+        "skills":["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
+        "source": "https://github.com/IvanW5X/CS362-Winter2025-Team20-TalkTask"
     }
 ]
