@@ -48,9 +48,15 @@ export const About = () => {
             <div className={styles.about_item_text}>
               <h3>Experience w/ Full Stack Development:</h3>
               <p>
-                Developed GUI and web applications, primarily focusing on UI
-                design/functionality, configuring build environments, and
-                integration with business logic.
+                Hands-on experience with full stack development, working with
+                technologies such as MongoDB, Express, React, and Node.js (MERN
+                stack). Structured project directories following client-server
+                separation and MVC architecture to ensure scalability and
+                maintainability. Work includes implementing RESTful APIs,
+                designing and developing frontend components, and deploying
+                websites using platforms like Render and Netlify. Integrated
+                authentication systems such as Auth0 to enhance security and
+                user management.
               </p>
             </div>
           </li>
