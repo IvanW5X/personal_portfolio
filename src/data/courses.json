@@ -16,19 +16,44 @@
         "grade": "A"
     },
     {
+        "title": "Introdunction to Networking",
+        "grade": "A"
+    },
+    {
+        "title": "Software Engineering I",
+        "grade": "A"
+    },
+    {
+        "title": "Software Engineering II",
+        "grade": "A"
+    },
+    {
         "title": "Programming Language Fundamentals",
         "grade": "A-"
+        
     },
     {
         "title": "Analysis of Algorithms",
         "grade": "B+"
     },
     {
-        "title": "Intro to Networking",
-        "grade": "TDB"
+        "title": "Computer Organization & Assembly",
+        "grade": "B"
     },
     {
-        "title": "Computer Organization and Assembly",
+        "title": "Introduction to Databases",
+        "grade": "TBD"
+    },
+    {
+        "title": "Introduction to Security",
+        "grade": "TBD"
+    },
+    {
+        "title": "Computer Architecture",
+        "grade": "TBD"
+    },
+    {
+        "title": "Introduction to Parallel Programming",
         "grade": "TBD"
     }
 ]
